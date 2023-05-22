@@ -30,6 +30,12 @@ npm i -g @nestjs/cli
 docker-compose up -d
 
 ```
+5. Rebuild DB with SEED service
+```
+
+http://localhost:3000/api/v2/seed
+
+```
 
 ## Used Stack
 
